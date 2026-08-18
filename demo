@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Shri Shiv Shakti Motors - Kia Meerut</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&amp;family=Montserrat:wght@700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "primary-fixed-dim": "#b9c8d8",
+                        "on-primary-fixed": "#0e1d28",
+                        "surface-container-low": "#f3f3f3",
+                        "on-primary-container": "#778694",
+                        "surface": "#f9f9f9",
+                        "tertiary": "#000000",
+                        "error": "#ba1a1a",
+                        "surface-container-lowest": "#ffffff",
+                        "on-tertiary-fixed-variant": "#464747",
+                        "on-error": "#ffffff",
+                        "on-background": "#1a1c1c",
+                        "surface-container-high": "#e8e8e8",
+                        "on-surface-variant": "#43474b",
+                        "on-surface": "#1a1c1c",
+                        "inverse-primary": "#b9c8d8",
+                        "background": "#f9f9f9",
+                        "on-error-container": "#93000a",
+                        "deep-onyx": "#05141F",
+                        "on-primary-fixed-variant": "#3a4855",
+                        "slate-iron": "#666666",
+                        "secondary-fixed": "#ffdad8",
+                        "on-tertiary-fixed": "#1b1c1c",
+                        "primary-fixed": "#d5e4f4",
+                        "primary-container": "#0e1d28",
+                        "secondary-container": "#db313e",
+                        "surface-bright": "#f9f9f9",
+                        "on-secondary-container": "#fffbff",
+                        "outline": "#74777c",
+                        "on-secondary-fixed": "#410007",
+                        "secondary-fixed-dim": "#ffb3b0",
+                        "primary": "#000000",
+                        "kia-red": "#BB162B",
+                        "tertiary-fixed-dim": "#c7c6c6",
+                        "secondary": "#b71229",
+                        "inverse-surface": "#2f3131",
+                        "on-tertiary": "#ffffff",
+                        "error-container": "#ffdad6",
+                        "on-secondary-fixed-variant": "#92001b",
+                        "tertiary-container": "#1b1c1c",
+                        "on-primary": "#ffffff",
+                        "surface-container-highest": "#e2e2e2",
+                        "on-tertiary-container": "#848484",
+                        "surface-tint": "#51606d",
+                        "platinum-gray": "#F4F4F4",
+                        "tertiary-fixed": "#e4e2e2",
+                        "surface-variant": "#e2e2e2",
+                        "surface-container": "#eeeeee",
+                        "surface-dim": "#dadada",
+                        "inverse-on-surface": "#f1f1f1",
+                        "on-secondary": "#ffffff",
+                        "outline-variant": "#c4c7cc"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.125rem",
+                        "lg": "0.25rem",
+                        "xl": "0.5rem",
+                        "full": "0.75rem"
+                    },
+                    "spacing": {
+                        "unit": "8px",
+                        "gutter": "24px",
+                        "margin-mobile": "20px",
+                        "margin-desktop": "64px",
+                        "section-gap": "120px",
+                        "container-max": "1280px"
+                    },
+                    "fontFamily": {
+                        "headline-lg-mobile": ["Montserrat"],
+                        "caption": ["Inter"],
+                        "headline-lg": ["Montserrat"],
+                        "body-md": ["Inter"],
+                        "headline-md": ["Montserrat"],
+                        "body-lg": ["Inter"],
+                        "display-lg": ["Montserrat"],
+                        "label-bold": ["Inter"]
+                    },
+                    "fontSize": {
+                        "headline-lg-mobile": ["32px", { "lineHeight": "40px", "fontWeight": "700" }],
+                        "caption": ["12px", { "lineHeight": "16px", "fontWeight": "500" }],
+                        "headline-lg": ["40px", { "lineHeight": "48px", "letterSpacing": "-0.01em", "fontWeight": "700" }],
+                        "body-md": ["16px", { "lineHeight": "24px", "fontWeight": "400" }],
+                        "headline-md": ["24px", { "lineHeight": "32px", "fontWeight": "700" }],
+                        "body-lg": ["18px", { "lineHeight": "28px", "fontWeight": "400" }],
+                        "display-lg": ["64px", { "lineHeight": "72px", "letterSpacing": "-0.02em", "fontWeight": "800" }],
+                        "label-bold": ["14px", { "lineHeight": "20px", "letterSpacing": "0.05em", "fontWeight": "700" }]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        .fade-in-up {
+            animation: fadeInUp 0.8s ease-out forwards;
+            opacity: 0;
+            transform: translateY(20px);
+        }
+        @keyframes fadeInUp {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+<body class="bg-surface text-on-surface font-body-md antialiased overflow-x-hidden">
+<!-- TopNavBar -->
+<nav class="bg-surface/80 dark:bg-deep-onyx/80 backdrop-blur-md fixed top-0 w-full z-50 border-b border-outline-variant/30 transition-all duration-300 ease-in-out">
+<div class="flex justify-between items-center h-20 px-margin-mobile md:px-margin-desktop max-w-container-max mx-auto">
+<a class="flex-shrink-0" href="#">
+<img alt="Shri Shiv Shakti Motors" class="h-10 w-auto" src="https://lh3.googleusercontent.com/aida/AP1WRLsCmo6mmmYqef-hcxx5klW9i-keMo0XRol4UIrg6yhxI_zlZd7AInt_YBwChwDeaSD0GL668WsrhDuTgqin1I-sP2qVwMXHMUuo3DFt3W2zY1IlgVt3LJbDk3eyLEosgoqsyg7MC24MT_S_6tuUshghgIQgTLSt-IQNGE7o7mEzcGs3FhOoOrOpswvCZMsOzGYAO1V9a5scrL6mhTLADQztdSbIOIZ_27bn9alqmjco_3nz10q8Fn4ew5RW"/>
+</a>
+<div class="hidden md:flex space-x-gutter items-center">
+<a class="text-kia-red border-b-2 border-kia-red pb-1 font-label-bold text-label-bold transition-colors duration-300" href="#home">Home</a>
+<a class="text-on-surface hover:text-kia-red font-label-bold text-label-bold transition-colors duration-300" href="#about">About</a>
+<a class="text-on-surface hover:text-kia-red font-label-bold text-label-bold transition-colors duration-300" href="#models">Models</a>
+<a class="text-on-surface hover:text-kia-red font-label-bold text-label-bold transition-colors duration-300" href="#gallery">Gallery</a>
+<a class="text-on-surface hover:text-kia-red font-label-bold text-label-bold transition-colors duration-300" href="#contact">Contact</a>
+</div>
+<div class="hidden md:flex items-center">
+<a class="bg-kia-red text-white font-label-bold text-label-bold uppercase px-6 py-3 rounded hover:bg-secondary transition-colors duration-300" href="#contact">Enquire Now</a>
+</div>
+<button class="md:hidden text-on-surface">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 0;">menu</span>
+</button>
+</div>
+</nav>
+<!-- Hero Section -->
+<section class="relative pt-20 h-screen flex items-center justify-center bg-deep-onyx text-surface-bright overflow-hidden" id="home">
+<div class="absolute inset-0 z-0">
+<div class="w-full h-full bg-cover bg-center opacity-70 bg-no-repeat" style="background-image: url('https://lh3.googleusercontent.com/aida/AP1WRLu0DLO_gEmwpmE56Nmtbpk0h6-vAyVDAya-8nHOOgpOT86XmAjkaQLmpVsFBeSReDYbThay90c-L7aDnWrrnnc495JX8GWtVh942j5W7O1QVO0zqsReyNCr94_lNO5yrw6Hs8-TLxvDeKqWAoPMODX2yS_I2Fm6EoXfJJogcZnoSQgXBD2E93YbxlpBMI6GDyxgFagOHlp-2Qli3D_EYzDQ9JR0hTqGCULyqJJD6xibZJuYi0lwHe0CtUM')"></div>
+<div class="absolute inset-0 bg-gradient-to-t from-deep-onyx via-transparent to-transparent"></div>
+</div>
+<div class="relative z-10 text-center px-margin-mobile md:px-margin-desktop max-w-container-max mx-auto fade-in-up">
+<h1 class="font-display-lg text-display-lg mb-4 text-surface-bright shadow-sm">Shri Shiv Shakti Motors</h1>
+<p class="font-headline-md text-headline-md mb-2 text-platinum-gray">Your Authorized Kia Showroom in Meerut</p>
+<p class="font-body-lg text-body-lg mb-8 text-surface-variant">Movement that Inspires Excellence</p>
+<div class="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4">
+<a class="bg-kia-red text-white font-label-bold text-label-bold uppercase px-8 py-4 rounded hover:bg-secondary transition-colors duration-300 shadow-md" href="#models">Explore Kia Cars</a>
+<a class="border border-white text-white font-label-bold text-label-bold uppercase px-8 py-4 rounded hover:bg-white hover:text-deep-onyx transition-colors duration-300 shadow-md" href="#contact">Contact Us</a>
+</div>
+</div>
+</section>
+<!-- Footer -->
+<footer class="bg-deep-onyx py-section-gap w-full border-t border-outline-variant/20">
+<div class="grid grid-cols-1 md:grid-cols-4 gap-gutter px-margin-mobile md:px-margin-desktop max-w-container-max mx-auto text-surface-bright">
+<div class="col-span-1 md:col-span-1">
+<h2 class="font-headline-md text-headline-md text-surface-bright mb-4">Shri Shiv Shakti Motors</h2>
+<p class="font-body-md text-body-md text-platinum-gray/80 mb-2">No. A/7, Garh Road,</p>
+<p class="font-body-md text-body-md text-platinum-gray/80 mb-2">Meerut - 250004</p>
+<p class="font-body-md text-body-md text-platinum-gray/80 mb-4">+91 9520806111</p>
+<img alt="Kia Logo" class="h-8 w-auto opacity-80 filter invert grayscale brightness-200" src="https://lh3.googleusercontent.com/aida/AP1WRLsCmo6mmmYqef-hcxx5klW9i-keMo0XRol4UIrg6yhxI_zlZd7AInt_YBwChwDeaSD0GL668WsrhDuTgqin1I-sP2qVwMXHMUuo3DFt3W2zY1IlgVt3LJbDk3eyLEosgoqsyg7MC24MT_S_6tuUshghgIQgTLSt-IQNGE7o7mEzcGs3FhOoOrOpswvCZMsOzGYAO1V9a5scrL6mhTLADQztdSbIOIZ_27bn9alqmjco_3nz10q8Fn4ew5RW"/>
+</div>
+<div class="col-span-1 md:col-span-1">
+<h3 class="font-label-bold text-label-bold text-kia-red uppercase tracking-wider mb-4">Quick Links</h3>
+<ul class="space-y-2">
+<li><a class="font-body-md text-body-md text-platinum-gray/70 hover:text-surface-bright hover:translate-x-1 transition-all duration-200 inline-block" href="#">Home</a></li>
+<li><a class="font-body-md text-body-md text-platinum-gray/70 hover:text-surface-bright hover:translate-x-1 transition-all duration-200 inline-block" href="#">Models</a></li>
+<li><a class="font-body-md text-body-md text-platinum-gray/70 hover:text-surface-bright hover:translate-x-1 transition-all duration-200 inline-block" href="#">Gallery</a></li>
+<li><a class="font-body-md text-body-md text-platinum-gray/70 hover:text-surface-bright hover:translate-x-1 transition-all duration-200 inline-block" href="#">Contact Us</a></li>
+</ul>
+</div>
+<div class="col-span-1 md:col-span-1">
+<h3 class="font-label-bold text-label-bold text-kia-red uppercase tracking-wider mb-4">Legal</h3>
+<ul class="space-y-2">
+<li><a class="font-body-md text-body-md text-platinum-gray/70 hover:text-surface-bright hover:translate-x-1 transition-all duration-200 inline-block" href="#">Privacy Policy</a></li>
+<li><a class="font-body-md text-body-md text-platinum-gray/70 hover:text-surface-bright hover:translate-x-1 transition-all duration-200 inline-block" href="#">Terms of Service</a></li>
+<li><a class="font-body-md text-body-md text-platinum-gray/70 hover:text-surface-bright hover:translate-x-1 transition-all duration-200 inline-block" href="#">Cookie Policy</a></li>
+<li><a class="font-body-md text-body-md text-platinum-gray/70 hover:text-surface-bright hover:translate-x-1 transition-all duration-200 inline-block" href="#">Sitemap</a></li>
+</ul>
+</div>
+<div class="col-span-1 md:col-span-1">
+<h3 class="font-label-bold text-label-bold text-kia-red uppercase tracking-wider mb-4">Connect</h3>
+<div class="flex space-x-4">
+<a class="text-platinum-gray/70 hover:text-surface-bright transition-colors duration-200" href="#">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">share</span>
+</a>
+<a class="text-platinum-gray/70 hover:text-surface-bright transition-colors duration-200" href="#">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">mail</span>
+</a>
+</div>
+</div>
+</div>
+<div class="px-margin-mobile md:px-margin-desktop max-w-container-max mx-auto mt-12 pt-8 border-t border-outline-variant/10 text-center md:text-left">
+<p class="font-caption text-caption text-platinum-gray/50">© 2024 Shri Shiv Shakti Motors - Kia Meerut. All rights reserved.</p>
+</div>
+</footer>
+<script>
+        // Basic scroll reveal for sections
+        document.addEventListener("DOMContentLoaded", () => {
+            const observerOptions = {
+                root: null,
+                rootMargin: '0px',
+                threshold: 0.1
+            };
+
+            const observer = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('fade-in-up');
+                        observer.unobserve(entry.target);
+                    }
+                });
+            }, observerOptions);
+
+            document.querySelectorAll('section').forEach(section => {
+                if (section.id !== 'home') { // Home already has the animation class
+                    section.classList.add('opacity-0'); // Initial state
+                    observer.observe(section);
+                }
+            });
+            
+            // Simple mobile menu toggle logic could go here
+        });
+    </script>
+</body></html>
